@@ -1,0 +1,4 @@
+Reporte semanal
+----------------
+aleman: 2.75 horas
+python: 0.33 horas
