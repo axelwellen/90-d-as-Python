@@ -12,7 +12,7 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 ## Progreso
 
 | Día | Tema |
-|---|---|---|
+|---|---|
 | 01 | Limpiador de nombres de archivo |
 | 02 | Validador de contraseña |
 | 03 | Contador de palabras |
