@@ -34,4 +34,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 19 | Calculadora con funciones |
 | 20 | Registro de hábitos |
 | 21 | Checkpoint: Reporte semanal |
+| 22 | Lector seguro de números |
 | ... | ... |
