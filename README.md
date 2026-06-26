@@ -36,4 +36,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 21 | Checkpoint: Reporte semanal |
 | 22 | Lector seguro de números |
 | 23 | Calculadora Robusta |
+| 24 | Conversor de temperaturas |
 | ... | ... |
