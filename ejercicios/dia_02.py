@@ -30,5 +30,6 @@ def es_segura(password):
         return True
     return False
 
-password =  input("Introduce una contraseña: ")
-es_segura(password)
+if __name__ == "__main__":
+    password =  input("Introduce una contraseña: ")
+    es_segura(password)

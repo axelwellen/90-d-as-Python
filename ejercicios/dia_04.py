@@ -1,7 +1,6 @@
 # Clasificador de códigos HTTP
 # pedimos un código HTTP y devolvemos la salida en función del código
 
-codigo = input("Introduce un código HTTP: ")
 
 def clasificar_codigo(codigo):
     match codigo:
@@ -16,10 +15,12 @@ def clasificar_codigo(codigo):
         case _:
             return "Código no válido"
 
-try:
-    codigo = int(codigo)
-    print(clasificar_codigo(codigo))
-except ValueError:
-    print("El código introducido no es un número")
+if __name__ == "__main__":
+    codigo = input("Introduce un código HTTP: ")
+    try:
+        codigo = int(codigo)
+        print(clasificar_codigo(codigo))
+    except ValueError:
+        print("El código introducido no es un número")
 
 
