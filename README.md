@@ -37,4 +37,9 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 22 | Lector seguro de números |
 | 23 | Calculadora Robusta |
 | 24 | Conversor de temperaturas |
+| 25 | Validador de IP simple |
+| 26 | Parser de línea de log |
+| 27 | Menú robusto |
+| 28 | Checkpoint: herramienta interactiva segura |
+| 29 | Hola terminal |
 | ... | ... |
