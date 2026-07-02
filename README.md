@@ -42,4 +42,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 27 | Menú robusto |
 | 28 | Checkpoint: herramienta interactiva segura |
 | 29 | Hola terminal |
+| 30 | Suma desde terminal |
 | ... | ... |
