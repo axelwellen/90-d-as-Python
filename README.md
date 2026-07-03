@@ -43,4 +43,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 28 | Checkpoint: herramienta interactiva segura |
 | 29 | Hola terminal |
 | 30 | Suma desde terminal |
+| 31 | Clasificador HTTP desde terminal |
 | ... | ... |
