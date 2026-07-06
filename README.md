@@ -44,4 +44,7 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 29 | Hola terminal |
 | 30 | Suma desde terminal |
 | 31 | Clasificador HTTP desde terminal |
+| 32 | Buscador de palabra en frase |
+| 33 | Generador de nombres de archivo |
+| 34 | Validador de IP desde terminal |
 | ... | ... |
