@@ -48,4 +48,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 33 | Generador de nombres de archivo |
 | 34 | Validador de IP desde terminal |
 | 35 | Checkpoint: Toolkit terminal |
+| 36 | Contador de líneas |
 | ... | ... |
