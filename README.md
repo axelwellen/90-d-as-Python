@@ -49,4 +49,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 34 | Validador de IP desde terminal |
 | 35 | Checkpoint: Toolkit terminal |
 | 36 | Contador de líneas |
+| 37 | Buscador en archivo |
 | ... | ... |
