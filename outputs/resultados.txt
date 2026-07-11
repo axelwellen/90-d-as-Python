@@ -1,0 +1,9 @@
+Línea 3: # Leer un archivo y buscar líneas que contengan una palabra
+Línea 11:     palabra = sys.argv[1]
+Línea 19:     print("El formato debe ser:\npython dia_37.py [palabra_a_buscar] [nombre_archivo] [(opcional)directorio]")
+Línea 22: # Si todo está correcto, leemos el archivo y buscamos la palabra en las diferentes líneas. 
+Línea 27:     veces = linea.lower().count(palabra.lower()) # palabra Palabra PALABR Palabra PALABRAA
+Línea 29:         print(f"\033[34m{palabra}\033[0m aparece {veces} veces en la línea {i}")
+Línea 30:         print("    ",linea.replace(palabra,f"\033[32m{palabra}\033[0m").strip())
+
+Total de coincidencias: 12

@@ -50,4 +50,7 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 35 | Checkpoint: Toolkit terminal |
 | 36 | Contador de líneas |
 | 37 | Buscador en archivo |
+| 38 | Guardar resultados |
+| 39 | Limpiador de archivo |
+
 | ... | ... |
