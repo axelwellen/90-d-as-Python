@@ -1,0 +1,20 @@
+Documento a numerar
+
+Este es el documento a numerar
+Así que vamos a ver un poco como funciona
+ - ...
+ - ...
+ - ...
+Esperemos que la salida funcione
+
+
+
+
+Vamos a poner unos cuantos saltos de línea por debajo, a ver:
+
+
+
+
+
+
+

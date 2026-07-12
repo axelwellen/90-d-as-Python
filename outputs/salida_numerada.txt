@@ -1,0 +1,20 @@
+0001: Documento a numerar
+0002: 
+0003: Este es el documento a numerar
+0004: Así que vamos a ver un poco como funciona
+0005:  - ...
+0006:  - ...
+0007:  - ...
+0008: Esperemos que la salida funcione
+0009: 
+0010: 
+0011: 
+0012: 
+0013: Vamos a poner unos cuantos saltos de línea por debajo, a ver:
+0014: 
+0015: 
+0016: 
+0017: 
+0018: 
+0019: 
+0020: 
