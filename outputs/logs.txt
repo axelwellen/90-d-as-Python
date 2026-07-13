@@ -1,0 +1,6 @@
+INFO: Service started
+WARING: Low disk space
+ERROR: Cannot connect to database
+INFO: User logged in
+Warning: CPU temperature high
+error: File not found
