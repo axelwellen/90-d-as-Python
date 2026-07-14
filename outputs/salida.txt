@@ -1,0 +1,2 @@
+0003: ERROR: Cannot connect to database
+0006: error: File not found
