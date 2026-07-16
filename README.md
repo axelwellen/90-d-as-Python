@@ -55,4 +55,6 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 40 | Numerador de líneas |
 | 41 | Separador de errores |
 | 42 | Checkpoint: Mini Grep |
+| 43 | Contador de IPs en logs |
+| 44 | Detector de login fallido |
 | ... | ... |

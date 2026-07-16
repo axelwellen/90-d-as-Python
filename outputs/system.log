@@ -1,0 +1,20 @@
+INFO useradmin login ok
+INFO service nginx started
+WARNING many login attempts from 192.168.1.10
+ERROR access denied for user root
+INFO backup completed
+WARNING disk usage above 80 percent
+ERROR database connection failed
+CRITICAL system compromised from 10.0.0.5
+INFO user pepe logout ok
+WARNING suspicious request to /.env
+ERROR invalid password for admin
+INFO scheduled task executed
+CRITICAL malware detected
+WARNING failed login threshold reached
+ERROR permission denied on /etc/shadow
+INFO user ana login ok
+WARNING high memory usage
+ERROR service ssh failed to restart
+CRITICAL unauthorized root access
+INFO system update completed 
