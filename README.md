@@ -57,4 +57,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 42 | Checkpoint: Mini Grep |
 | 43 | Contador de IPs en logs |
 | 44 | Detector de login fallido |
+| 45 | Detector de fuerza bruta simple |
 | ... | ... |
