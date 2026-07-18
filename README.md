@@ -58,4 +58,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 43 | Contador de IPs en logs |
 | 44 | Detector de login fallido |
 | 45 | Detector de fuerza bruta simple |
+| 46 | Analizador de códigos HTTP |
 | ... | ... |
