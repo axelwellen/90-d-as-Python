@@ -22,14 +22,10 @@ for linea in lineas:
     ip = vector_linea[0].strip()
     codigo = int(vector_linea[-1].strip())
 
-    if codigos.get(codigo,False):
-        if codigos[codigo].get(ip,False):
-            codigos[codigo][ip] += 1
-        else:
-            codigos[codigo][ip] = 1
-    else:
-        codigos[codigo] = {}
-        codigos[codigo][ip] = 1
+    if codigo not in codigos:
+        codigos[codigo] = {} # si no existe el codigo, lo creamos
+    
+    codigos[codigo][ip] = codigos[codigo].get(ip,0) + 1 # si no existe la IP devuelve 0, sino el número de veces. En ambos sumamos 1. 
 
 for codigo,ips in codigos.items():
     for ip,veces in ips.items(): 
