@@ -60,4 +60,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 45 | Detector de fuerza bruta simple |
 | 46 | Analizador de códigos HTTP |
 | 47 | Rutas sospechosas |
+| 48 | Eventos por severidad |
 | ... | ... |
