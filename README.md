@@ -62,4 +62,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 47 | Rutas sospechosas |
 | 48 | Eventos por severidad |
 | 49 | Checkpoint: Analizador de logs |
+| 50 | Días hasta una fecha |
 | ... | ... |
