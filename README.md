@@ -64,4 +64,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 49 | Checkpoint: Analizador de logs |
 | 50 | Días hasta una fecha |
 | 51 | Registro con timestamp |
+| 52 | Generador de contraseña |
 | ... | ... |
