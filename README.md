@@ -66,4 +66,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 51 | Registro con timestamp |
 | 52 | Generador de contraseña |
 | 53 | Simulador de intentos de login |
+| 54 | Counter para palabras |
 | ... | ... |
