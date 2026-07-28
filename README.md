@@ -68,4 +68,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 53 | Simulador de intentos de login |
 | 54 | Counter para palabras |
 | 55 | defaultdict para agrupar |
+| 56 | Checkpoint: Generador + Analizador |
 | ... | ... |
