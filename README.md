@@ -69,4 +69,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 54 | Counter para palabras |
 | 55 | defaultdict para agrupar |
 | 56 | Checkpoint: Generador + Analizador |
+| 57 | Crear base de datos de vocabulario |
 | ... | ... |
