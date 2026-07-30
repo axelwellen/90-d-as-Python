@@ -1,4 +1,4 @@
-# Reto 90 días programando en Python
+ Reto 90 días programando en Python
 
 El repositorio contiene un pequeño reto para mejorar la soltura con los conceptos más básicos de Python. Cada día tiene un ejercicio preparado para ser resuelto en unos 20 minutos. 
 
@@ -70,4 +70,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 55 | defaultdict para agrupar |
 | 56 | Checkpoint: Generador + Analizador |
 | 57 | Crear base de datos de vocabulario |
+| 58 | Consultar todas las palabras |
 | ... | ... |
