@@ -71,4 +71,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 56 | Checkpoint: Generador + Analizador |
 | 57 | Crear base de datos de vocabulario |
 | 58 | Consultar todas las palabras |
+| 59 | Filtrar por nivel |
 | ... | ... |
