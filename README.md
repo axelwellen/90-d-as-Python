@@ -72,4 +72,6 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 57 | Crear base de datos de vocabulario |
 | 58 | Consultar todas las palabras |
 | 59 | Filtrar por nivel |
+| 60 | Filtrar por tema |
+| 61 | Insertar palabra nueva |
 | ... | ... |
