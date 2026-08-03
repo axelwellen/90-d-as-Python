@@ -74,4 +74,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 59 | Filtrar por nivel |
 | 60 | Filtrar por tema |
 | 61 | Insertar palabra nueva |
+| 62 | Palabra aleatoria |
 | ... | ... |
