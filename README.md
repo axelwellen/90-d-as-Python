@@ -76,4 +76,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 61 | Insertar palabra nueva |
 | 62 | Palabra aleatoria |
 | 63 | Checkpoint: vocabulario terminal v1 |
+| 64 | Clase Palabra |
 | ... | ... |
