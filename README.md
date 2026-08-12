@@ -78,4 +78,6 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 63 | Checkpoint: vocabulario terminal v1 |
 | 64 | Clase Palabra |
 | 65 | Clase Usuario |
+| 66 | Herencia simple |
+| 67 | Refactor vocabulario |
 | ... | ... |
