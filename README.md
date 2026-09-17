@@ -80,4 +80,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 65 | Clase Usuario |
 | 66 | Herencia simple |
 | 67 | Refactor vocabulario |
+| 68 ||
 | ... | ... |
