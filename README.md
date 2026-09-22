@@ -82,4 +82,7 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 67 | Refactor vocabulario |
 | 68 | Módulo propio de utilidades |
 | 69 | paquete simple |
+| 70 | Checkpoint: app organizada (PENDIENTE) |
+| 71 | Leer CSV con pandas |
+| 72 | Minutos por actividad |
 | ... | ... |
