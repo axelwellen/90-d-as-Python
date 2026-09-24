@@ -87,4 +87,6 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 72 | Minutos por actividad |
 | 73 | Minutos por día |
 | 74 | Gráfico simple |
+| 75 | NumPy básico |
+| 76 | Analizador de hábitos |
 | ... | ... |
