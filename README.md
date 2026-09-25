@@ -89,4 +89,5 @@ El repositorio contiene un pequeño reto para mejorar la soltura con los concept
 | 74 | Gráfico simple |
 | 75 | NumPy básico |
 | 76 | Analizador de hábitos |
+| 77 | Checkpoint: dashboard simple |
 | ... | ... |
